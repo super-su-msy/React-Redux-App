@@ -4,7 +4,7 @@ const initialState = [
     {
         id: 1,
         title: "Learning Redux Toolkit",
-        content: "I've learning Redux Toolkit!"
+        content: "I'm learning Redux Toolkit!"
     },
     {
         id: 2,
